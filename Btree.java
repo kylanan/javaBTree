@@ -1,6 +1,3 @@
-//Keaton Ylanan
-//kky210002
-
 import java.util.Scanner;
 import java.io.*;
 
